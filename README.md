@@ -2,11 +2,12 @@
 
 
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer
 
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
+- 💪 I like to write code.
+- 🎉 I love to paint and play the guitar.
+- 🥅 I am constantly learning new things.
+- 🤹🏽 I always achieve my goals.
 
 ### Connect with me:
 
